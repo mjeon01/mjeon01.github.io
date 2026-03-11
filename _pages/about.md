@@ -32,7 +32,7 @@ redirect_from:
 ---
 
 ## 📡 Current Status
-- 🔍 **Researching:** Document AI 엔진(Docling, Upstage, Clova) 성능 비교 벤치마크
+- 🔍 **Researching:** Document AI 엔진(Docling, Upstage, ChandraOCR) 성능 비교 벤치마크
 - 💻 **Developing:** GraphRAG 기반 법률/보안 문서 질의응답 시스템 고도화
 
 ---
