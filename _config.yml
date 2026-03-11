@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Mungi | Portfolio"
+title                    : "Mungi.log "
 title_separator          : "-"
 name                     : &name "Mungi Jeon"
 description              : &description "Undergraduate Researcher | NLP · RAG · Information Extraction"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "전문기 (Mun Gi Jeon)"
   pronouns         : "he/him"  
-  bio              : "Undergraduate Researcher | Cyber Security & CS | NLP, RAG, Information Extraction."
+  bio              : "Undergraduate Researcher<br>Cyber Security & CS<br>NLP, RAG, Information Extraction."
   location         : "Busan, South Korea"
   employer         : "부산외국어대학교 (BUFS)"
   uri              : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/mungi-jeon-9a55723b6/"
+  linkedin         : "mungi-jeon-9a55723b6/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -302,7 +302,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
