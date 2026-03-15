@@ -38,7 +38,7 @@ redirect_from:
 ---
 
 ## 🎓 Education
-**부산외국어대학교 (Busan University of Foreign Studies)** 사이버경찰학과 & 컴퓨터공학전공 (*2021 – Present*)
+**부산외국어대학교 (Busan University of Foreign Studies)** 사이버경찰학과 & 컴퓨터공학전공 (*2020 – Present*)
 
 ## 💼 Experience
 **Undergraduate Research Assistant** (*2025.05 – Present*)
